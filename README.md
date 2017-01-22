@@ -28,7 +28,7 @@ Xcode 8.0+
 
 DeveloperBen, ben@thetechkids.com
 
-License
+###License
 
 Material-Icons is available under the  Apache License 2.0. See the LICENSE file for more info.
 
